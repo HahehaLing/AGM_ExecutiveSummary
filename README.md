@@ -15,11 +15,11 @@ The entity relations diagram (ERD) provided by Kevin Crook shows the relationshi
 ![alt text](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Sales%20Database%20ERD.jpeg)
 
 ## Outline
-  - Sales-specific Analysis
-  - Customer-specific Analysis
-  - Product-specific Analysis
-  - Best Customer Analysis
-  - Best Recommendation 
+  - [Sales-specific Analysis](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Sales_Analysis.ipynb)
+  - [Customer-specific Analysis](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Customer_Analysis.ipynb)
+  - [Product-specific Analysis](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Product_Analysis.ipynb)
+  - [Best Customer Analysis](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Best_Customer_Analysis.ipynb)
+  - [Best Recommendation](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Best_Recommendation.ipynb)
 
 
 ## Executive Summary
