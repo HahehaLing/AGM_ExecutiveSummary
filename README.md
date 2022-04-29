@@ -1,8 +1,15 @@
 # AGM_ExecutiveSummary
 Acme Gourmet Meals (AGM) Store Expansion Executive Summary 
 
-## Background
-# todo -- missing 
+## Background provided by Kevin Crook
+A few years ago, a new startup was born: Acme Gourmet Meals (AGM). AGM has just finished a very successful year on the enhanced computer systems, and now has a database of sales data for one year.
+
+AGM charges a flat rate of $12 per meal with no minimum. Since its food has to be heated before eating, it is not subject to sales tax. Customers must order by 10am one day in order to pick up the meals the next day. The thinking is that AGM will waste much less food that way. Customers will have a maximum of one order per day.
+
+### Objective
+AGM is currently undergoing store expansions and the executives have asked me to analyze the sales, customers and product data to provide recommendations on improving the business. 
+
+
 ## Data
 The entity relations diagram (ERD) provided by Kevin Crook shows the relationship. 
 ![alt text](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Sales%20Database%20ERD.jpeg)
