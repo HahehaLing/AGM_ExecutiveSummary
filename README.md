@@ -2,10 +2,10 @@
 Acme Gourmet Meals (AGM) Store Expansion Executive Summary 
 
 ## Background
-
+# todo -- missing 
 ## Data
-The entity relations diagram (ERD) is provided to show the relationship. 
-### todo: grab the figure 
+The entity relations diagram (ERD) provided by Kevin Crook shows the relationship. 
+![alt text](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/Sales%20Database%20ERD.jpeg)
 
 ## Outline
   - Sales-specific Analysis
@@ -16,7 +16,10 @@ The entity relations diagram (ERD) is provided to show the relationship.
 
 
 ## Executive Summary
-### todo: grab the figures and insert in this readme too 
+![alt text](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/popular_meal_type.png)
+![alt text](https://github.com/HahehaLing/AGM_ExecutiveSummary/blob/main/spending_group_fav_meal.png)
+
+
 From the notebooks' figures, we know that the customers like Pistachio Salmons the most. This is true for all different spending group as shown in the Pistachio Salmon sales, which consists of on average about 20% of all meals sold.
 
 The following are my main 2 recommendations:
